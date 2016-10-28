@@ -1,0 +1,9 @@
+---
+# defaults variables for awsec2
+aws_region: 
+aws_ami: 
+aws_sg: 
+aws_instance_type: t2.large
+aws_key_name: 
+aws_vpc_subnet_id: 
+aws_instance_ssh_user: 
